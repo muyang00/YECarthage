@@ -1,0 +1,2 @@
+# YECarthage
+说起cocoapods并不陌生，可是carthage有一部分人还不是了解，CocoaPods会直接创建和修改项目的workspace配置，一切都是为了便捷，我们只需要修改pod文件并不需要过多的关心其他事情，CocoaPods创建的是高度集成的项目。 而Carthage的特点是灵活，耦合度不高，集成时不需要集成相应的project，不需要创建workspace,而仅仅需要依赖打包好的framework文件即可
